@@ -2,6 +2,7 @@
 👨‍⚖️O EXPRESS.JS É UM FRAMEWORK DE APLICATIVO WEB PARA O NODE.JS QUE SIMPLIFICA O DESENVOLVIMENTO DE APLICATIVOS WEB E APIS. ELE FORNECE UMA MANEIRA FÁCIL DE LIDAR COM ROTAS, SOLICITAÇÕES E RESPOSTAS HTTP, BEM COMO DE CONFIGURAR MIDDLEWARES PARA PROCESSAR SOLICITAÇÕES DE MANEIRA MODULAR.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=ExpressJS)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://expressjs.com/) <br>
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLL0TiOXBeDag4aUucYMa6xo0z98IvCM3l&si=lAsrpBYWWhqeC9NX)
