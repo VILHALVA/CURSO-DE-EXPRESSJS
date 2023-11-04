@@ -58,4 +58,4 @@
 
    Isso define o esquema da tarefa e cria um modelo chamado `Tarefa` que pode ser usado para interagir com a base de dados.
 
-Esses são os primeiros passos para configurar sua aplicação CRUD com Express.js e MongoDB. Os passos seguintes envolveriam a criação das rotas para realizar as operações CRUD, ou seja, criar, ler, atualizar e excluir tarefas na base de dados. Se você quiser continuar, posso fornecer mais detalhes sobre como fazer isso.
+Esses são os primeiros passos para configurar sua aplicação CRUD com Express.js e MongoDB. Os passos seguintes envolveriam a criação das rotas para realizar as operações CRUD, ou seja, criar, ler, atualizar e excluir tarefas na base de dados. 
