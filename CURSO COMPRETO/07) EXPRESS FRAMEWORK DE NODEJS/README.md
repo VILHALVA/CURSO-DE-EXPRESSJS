@@ -97,4 +97,4 @@ a operações CRUD (Create, Read, Update, Delete) em recursos. Isso é fundament
 **03:48:30 Bancos de Dados**
    - Uma introdução aos bancos de dados no contexto do Express. Isso pode incluir como se conectar a um banco de dados e executar operações comuns.
 
-Esses tópicos cobrem uma ampla gama de conceitos fundamentais do Express.js e fornecem uma base sólida para o desenvolvimento de aplicativos web no lado do servidor usando este framework. Conforme avançamos, estou disponível para fornecer mais detalhes e exemplos práticos sobre qualquer um desses tópicos.
+Esses tópicos cobrem uma ampla gama de conceitos fundamentais do Express.js e fornecem uma base sólida para o desenvolvimento de aplicativos web no lado do servidor usando este framework. 
