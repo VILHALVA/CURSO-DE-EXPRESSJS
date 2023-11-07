@@ -80,4 +80,4 @@ app.get('/rota-exemplo', (req, res) => {
 });
 ```
 
-Esta é apenas uma introdução básica à instalação e configuração do Express.js. Você pode expandir e personalizar seu aplicativo de acordo com as necessidades do seu projeto. Se tiver alguma pergunta específica ou precisar de mais detalhes sobre a configuração do Express.js, sinta-se à vontade para perguntar.
+Esta é apenas uma introdução básica à instalação e configuração do Express.js. Você pode expandir e personalizar seu aplicativo de acordo com as necessidades do seu projeto. 
