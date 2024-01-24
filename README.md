@@ -2,15 +2,9 @@
 👨‍⚖️O EXPRESS.JS É UM FRAMEWORK DE APLICATIVO WEB PARA O NODE.JS QUE SIMPLIFICA O DESENVOLVIMENTO DE APLICATIVOS WEB E APIS. ELE FORNECE UMA MANEIRA FÁCIL DE LIDAR COM ROTAS, SOLICITAÇÕES E RESPOSTAS HTTP, BEM COMO DE CONFIGURAR MIDDLEWARES PARA PROCESSAR SOLICITAÇÕES DE MANEIRA MODULAR.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=ExpressJS)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://expressjs.com/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT) <br>
-
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLL0TiOXBeDag4aUucYMa6xo0z98IvCM3l&si=lAsrpBYWWhqeC9NX)
-
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602580918757/mBSwGdyFq.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 **Express.js** é um framework de aplicativo web para Node.js que simplifica o desenvolvimento de aplicativos e APIs web. Ele é conhecido por sua simplicidade e flexibilidade, tornando-o uma escolha popular para desenvolvedores Node.js.
