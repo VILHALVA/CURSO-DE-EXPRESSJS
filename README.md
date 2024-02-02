@@ -1,12 +1,9 @@
 # CURSO DE EXPRESS.JS
 👨‍⚖️O EXPRESS.JS É UM FRAMEWORK DE APLICATIVO WEB PARA O NODE.JS QUE SIMPLIFICA O DESENVOLVIMENTO DE APLICATIVOS WEB E APIS. ELE FORNECE UMA MANEIRA FÁCIL DE LIDAR COM ROTAS, SOLICITAÇÕES E RESPOSTAS HTTP, BEM COMO DE CONFIGURAR MIDDLEWARES PARA PROCESSAR SOLICITAÇÕES DE MANEIRA MODULAR.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://expressjs.com/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLL0TiOXBeDag4aUucYMa6xo0z98IvCM3l&si=lAsrpBYWWhqeC9NX)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 **Express.js** é um framework de aplicativo web para Node.js que simplifica o desenvolvimento de aplicativos e APIs web. Ele é conhecido por sua simplicidade e flexibilidade, tornando-o uma escolha popular para desenvolvedores Node.js.
 
 Aqui estão alguns dos principais conceitos associados ao Express.js:
@@ -36,8 +33,9 @@ Aqui estão alguns dos principais conceitos associados ao Express.js:
    Embora o Express seja focado na manipulação de solicitações HTTP, é comum utilizá-lo em conjunto com bancos de dados, como MongoDB, PostgreSQL ou MySQL, para criar aplicativos web que armazenam e recuperam dados.
 
 O Express.js é altamente modular e permite que os desenvolvedores escolham os componentes necessários para seus aplicativos. Isso o torna uma ferramenta poderosa e versátil para criar uma ampla variedade de aplicativos web, desde APIs simples até aplicativos da web em larga escala.
-# CARACTERISTICAS:
-## Características Positivas:
+
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Simplicidade e Minimalismo:** O Express.js é conhecido por sua simplicidade e minimalismo. Ele fornece uma estrutura leve que não impõe muitos conceitos ou regras rígidas. Isso torna o Express.js fácil de aprender e usar.
 
 2. **Flexibilidade:** Express.js é altamente flexível e permite que os desenvolvedores escolham os módulos e bibliotecas que desejam usar. Isso significa que você pode personalizar seu aplicativo de acordo com as necessidades específicas do projeto.
@@ -48,7 +46,7 @@ O Express.js é altamente modular e permite que os desenvolvedores escolham os c
 
 5. **Middleware:** A arquitetura baseada em middleware do Express.js permite que você adicione funções de processamento de solicitação em uma ordem específica. Isso é útil para tarefas como autenticação, registro de solicitações, validação de dados e muito mais.
 
-## Características Negativas:
+### NEGATIVAS:
 1. **Curva de Aprendizado:** Embora seja mais simples em comparação com alguns outros frameworks, o Express.js ainda pode ter uma curva de aprendizado para desenvolvedores inexperientes em Node.js e web development.
 
 2. **Falta de Convenções:** A falta de regras rígidas e convenções pode levar a uma variedade de estilos de codificação. Isso pode tornar o código mais difícil de manter em projetos grandes e complexos, a menos que você imponha suas próprias convenções.
@@ -59,4 +57,8 @@ O Express.js é altamente modular e permite que os desenvolvedores escolham os c
 
 5. **Manutenção Contínua:** Embora o Express.js seja amplamente utilizado e tenha uma comunidade ativa, a manutenção contínua de bibliotecas de terceiros (middleware) pode ser um desafio, especialmente se o desenvolvedor responsável parar de atualizá-las.
 
-No geral, o Express.js é uma excelente escolha para desenvolver aplicativos web e APIs, especialmente se você deseja flexibilidade e controle total sobre o desenvolvimento. No entanto, a escolha de usar o Express.js deve ser baseada nas necessidades específicas do seu projeto e na experiência da equipe de desenvolvimento.
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "FAZT"](https://youtube.com/playlist?list=PLL0TiOXBeDag4aUucYMa6xo0z98IvCM3l&si=lAsrpBYWWhqeC9NX)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://expressjs.com/)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
