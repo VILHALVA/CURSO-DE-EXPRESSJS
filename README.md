@@ -34,6 +34,32 @@ Aqui estão alguns dos principais conceitos associados ao Express.js:
 
 O Express.js é altamente modular e permite que os desenvolvedores escolham os componentes necessários para seus aplicativos. Isso o torna uma ferramenta poderosa e versátil para criar uma ampla variedade de aplicativos web, desde APIs simples até aplicativos da web em larga escala.
 
+## SUA HISTÓRIA:
+1. **Origens (2010)**:
+   - O Express.js foi criado por TJ Holowaychuk, um proeminente desenvolvedor de software, em 2010.
+   - Naquela época, o Node.js estava começando a ganhar popularidade como uma plataforma de desenvolvimento de servidores em JavaScript do lado do servidor.
+   - Express foi concebido como uma camada fina e flexível em cima do Node.js para simplificar o desenvolvimento de aplicativos web e APIs.
+
+2. **Filosofia e Design**:
+   - O Express foi projetado com uma filosofia de "minimize o código", o que significa que o framework deve ser simples e direto ao ponto, permitindo que os desenvolvedores criem aplicativos de forma rápida e eficiente.
+   - Ele oferece uma API minimalista e não prescritiva, que dá aos desenvolvedores liberdade para estruturar seus aplicativos da maneira que desejarem.
+
+3. **Lançamento Público (2010)**:
+   - O Express foi lançado publicamente em 2010 como um projeto de código aberto no GitHub.
+   - Rapidamente ganhou popularidade entre os desenvolvedores devido à sua simplicidade, desempenho e eficiência.
+
+4. **Rápida Adoção (2010-2012)**:
+   - Nos anos seguintes ao seu lançamento, o Express foi amplamente adotado pela comunidade Node.js e se tornou o framework web mais popular para desenvolvimento em Node.js.
+   - Empresas e desenvolvedores individuais começaram a usar o Express para criar uma ampla variedade de aplicativos web e APIs.
+
+5. **Evolução e Expansão**:
+   - O Express continuou a evoluir ao longo dos anos, com lançamentos regulares trazendo novos recursos, melhorias de desempenho e correções de bugs.
+   - Além disso, o ecossistema do Express cresceu significativamente, com a introdução de middleware, plugins e extensões que ampliam ainda mais a funcionalidade do framework.
+
+6. **Versão 4.0 (2014)**:
+   - Uma das versões mais significativas do Express foi a versão 4.0, lançada em 2014.
+   - Esta versão trouxe várias melhorias importantes, incluindo roteamento reescrito, melhorias de desempenho e uma API simplificada para middleware.
+
 ## CARACTERISTICAS:
 ### POSITIVAS:
 1. **Simplicidade e Minimalismo:** O Express.js é conhecido por sua simplicidade e minimalismo. Ele fornece uma estrutura leve que não impõe muitos conceitos ou regras rígidas. Isso torna o Express.js fácil de aprender e usar.
@@ -62,3 +88,4 @@ O Express.js é altamente modular e permite que os desenvolvedores escolham os c
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://expressjs.com/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
+- [VEJA A SINTAXE](./SINTAXE.md)
